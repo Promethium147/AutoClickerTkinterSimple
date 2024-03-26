@@ -1,4 +1,4 @@
-from ttkbootstrap import Style, Button, Entry, Window
+from ttkbootstrap import Button, Entry, Window
 from time import sleep, time
 from pynput.mouse import Button as Btn, Controller
 
