@@ -33,7 +33,7 @@ mouse = Controller()
 
 def auto_click(sec):
     """Click the mouse for the seconds entered in the input field (Use the green button),
-    or the amount of seconds passed as an argument (green and red button."""
+    or the amount of seconds passed as an argument (green and red button)."""
 
     mouse.position = (300, 400)
 
